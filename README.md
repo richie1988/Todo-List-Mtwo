@@ -130,7 +130,6 @@ If you like this project, give it a star.
 
 I would like to thank the Microverse Team and the founder of Microverse for the opportunity is giving the developers world of opportunity.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
