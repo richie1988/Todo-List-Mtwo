@@ -23,7 +23,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="about-project"></a>
+# 📖 [TO-DO LIST] <a name="about-project"></a>
 
 
 **[TO-DO LIST]** is a simple website that displays TO-DO LIST and allows you to add and remove TO-DO LIST from that Content.
@@ -59,13 +59,13 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 - vscode.
 - git.
-- set up an index.html document.
+- Set up an index.html document.
 
 ### Setup
 Clone this repository to your desired folder:
 
-Navigate to the  directory where you  want to clone this project in your computer.
-Clone this repository to your desired folder:git clone (https://github.com/richie1988/WebpackTodolist.github.io.git)
+Navigate to the  directory where you  want to clone this project on your computer.
+Clone this repository to your desired folder: git clone
 
 ### Install
 Install this project with this command:
@@ -73,7 +73,7 @@ Install this project with this command:
 
 ### Usage
 
-To run the project, execute the following command by opening the vscode with the command `code .`
+To run the project, execute the following command by opening the Vscode with the command
 
 ### Run tests
 
@@ -120,10 +120,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, give it a star .
+If you like this project, give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -131,9 +130,7 @@ If you like this project, give it a star .
 
 I would like to thank the Microverse Team and the founder of Microverse for the opportunity is giving the developers world of opportunity.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
